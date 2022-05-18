@@ -11,9 +11,7 @@ namespace Pavlenko_kursach
         static void Main(string[] args)
         {
             Console.WriteLine( "Hello, World!");
-            Console.WriteLine( "Hello, World!");
-            Console.WriteLine( "Hello, World!");
-            Console.WriteLine( "Hello, Быдло!");
+            Console.ReadKey();
         }
     }
 }
